@@ -60,11 +60,27 @@ Flask, Django, Pandas, NumPy, TensorFlow (Keras), scikit-learn, Keras, PyTorch, 
 
 ---
 
-### 📫 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
-Email: goresakshi2005@gmail.com
+<p align="center">
+  <a href="mailto:goresakshi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-blue?logo=gmail" height="25" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gore-sakshi-ramdas-287065280/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/inevitable-gs">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" height="25" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/u/goresakshi/">
+    <img src="https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode" height="25" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://github.com/goresakshi2005">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" height="25" />
+  </a>
+</p>
 
 ---
 
