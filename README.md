@@ -69,7 +69,7 @@ Flask, Django, Pandas, NumPy, TensorFlow (Keras), scikit-learn, Keras, PyTorch, 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inevitable-gs">
+  <a href="https://www.linkedin.com/in/gore-sakshi-ramdas-287065280/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" height="25" />
   </a>&nbsp;&nbsp;&nbsp;
   
